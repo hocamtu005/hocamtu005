@@ -56,11 +56,11 @@
 
 ---
 
-### 📊 Thống kê GitHub (GitHub Stats)
+### 📈 Thống kê GitHub (GitHub Stats)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=camtuho005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camtuho005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hocamtu005&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocamtu005&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
