@@ -1,53 +1,74 @@
-# Xin chào, mình là Hồ Cẩm Tú 👋
+# Hi there, I'm Hồ Cẩm Tú 👋
 
-🎓 Fresher **Business Analyst** | 📍 TP. Hồ Chí Minh, Việt Nam
-📧 camtuho005@gmail.com
-
-Mình đang trong hành trình trở thành Business Analyst, tập trung vào thu thập & phân tích yêu cầu, phân tích dữ liệu và cải tiến quy trình nghiệp vụ. Đây là nơi mình lưu lại các project thực hành trong quá trình học.
-
----
-
-## 🧰 Kỹ năng
-
-**Phân tích & tài liệu nghiệp vụ**
-- Thu thập & viết yêu cầu (BRD, FRD, User Stories)
-- Vẽ quy trình nghiệp vụ (BPMN, Flowchart)
-- Use case, Wireframe cơ bản
-
-**Dữ liệu**
-- SQL (truy vấn, phân tích dữ liệu nghiệp vụ)
-- Excel (Pivot Table, hàm nâng cao, Dashboard)
-- Power BI / Tableau (đang học)
-
-**Công cụ**
-- Draw.io / Visio – vẽ sơ đồ quy trình
-- Jira / Trello – quản lý công việc
-- Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Fresher%20Business%20Analyst-blue?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-red?style=for-the-badge" alt="Location" />
+  <a href="mailto:camtuho005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-camtuho005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/camtuho005">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## 📁 Project nổi bật
+### 💡 Giới thiệu
 
-| Project | Mô tả | Công cụ |
-|---|---|---|
-| [Thu thập Yêu cầu & User Story – Hệ thống Đặt lịch Khám bệnh](#) | Xác định stakeholder, viết user story & acceptance criteria cho app đặt lịch khám bệnh online | User Story Mapping, Miro |
-| [Phân tích Customer Churn](#) | Phân tích dữ liệu khách hàng rời bỏ, tìm nguyên nhân & đề xuất giải pháp giữ chân | Excel, Power BI |
-| [Case Study Chuyển đổi số cho Doanh nghiệp Bán lẻ](#) | Phân tích SWOT/GAP một doanh nghiệp vừa & nhỏ, đề xuất lộ trình chuyển đổi số | SWOT, GAP Analysis |
-| [Bộ Test Case Nghiệm thu (UAT)](#) | Viết test case & tiêu chí nghiệm thu cho một tính năng phần mềm cụ thể | UAT, Test Case Template |
-
-> 📌 *Các link sẽ được cập nhật khi mình hoàn thành từng repo. Xem chi tiết trong tab Repositories.*
+- 🎯 **Mục tiêu**: Định hướng phát triển thành một **Business Analyst** toàn diện, chuyển hóa bài toán nghiệp vụ thành các giải pháp công nghệ hiệu quả và tối ưu giá trị cho doanh nghiệp.
 
 ---
 
-## 🌱 Đang học
+### 🛠️ Kỹ năng & Năng lực cốt lõi (Skills & Competencies)
 
-- Power BI / Tableau nâng cao
-- Phân tích quy trình nghiệp vụ (Business Process Modeling)
-
-## 📫 Kết nối với mình
-
-- Email: camtuho005@gmail.com
-- LinkedIn: www.linkedin.com/in/camtuho005
+#### 📋 Business Analysis & Requirements Engineering
+* **Thu thập & Phân tích yêu cầu**: Stakeholder Interviewing, Requirement Elicitation, Gap Analysis, SWOT Analysis.
+* **Tài liệu hóa (Documentation)**: BRD, FRD, SRS, User Stories & Acceptance Criteria (Gherkin/Given-When-Then).
+* **Mô hình hóa (Modeling & Wireframing)**: BPMN 2.0, Flowcharts, Use Case Diagrams, Activity Diagrams, Wireframes & Mockups.
+* **Kiểm thử nghiệm thu (Testing & Quality)**: UAT Planning, Test Scenarios, Test Case Documentation.
 
 ---
-⭐️ Cảm ơn bạn đã ghé thăm profile của mình!
+
+### 🧰 Công cụ làm việc (Toolbox)
+
+<p align="left">
+  <!-- Analysis & Modeling -->
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black" alt="Miro" />
+  <!-- Data & BI -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <!-- Project Management & Version Control -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 Thống kê GitHub (GitHub Stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=camtuho005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camtuho005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" />
+</p>
+
+---
+
+### 📬 Kết nối với mình (Connect With Me)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/camtuho005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hồ%20Cẩm%20Tú-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:camtuho005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-camtuho005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+⭐️ *Cảm ơn bạn đã ghé thăm trang GitHub của mình!*
