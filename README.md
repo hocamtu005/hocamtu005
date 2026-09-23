@@ -13,7 +13,7 @@
 
 ---
 
-### 💡 Giới thiệu
+### 💡 Về mình (About Me)
 
 - 🎯 **Mục tiêu**: Định hướng phát triển thành một **Business Analyst** toàn diện, chuyển hóa bài toán nghiệp vụ thành các giải pháp công nghệ hiệu quả và tối ưu giá trị cho doanh nghiệp.
 
@@ -26,6 +26,11 @@
 * **Tài liệu hóa (Documentation)**: BRD, FRD, SRS, User Stories & Acceptance Criteria (Gherkin/Given-When-Then).
 * **Mô hình hóa (Modeling & Wireframing)**: BPMN 2.0, Flowcharts, Use Case Diagrams, Activity Diagrams, Wireframes & Mockups.
 * **Kiểm thử nghiệm thu (Testing & Quality)**: UAT Planning, Test Scenarios, Test Case Documentation.
+
+#### 📊 Data Analysis & Technical Understanding
+* **Cơ sở dữ liệu**: SQL (Truy vấn, tổng hợp dữ liệu, phân tích chỉ số nghiệp vụ, Join & Subqueries).
+* **Báo cáo & Phân tích**: Microsoft Excel (Pivot Tables, hàm logic/thống kê, xây dựng Dashboard báo cáo).
+* **Trực quan hóa dữ liệu (Data Visualization)**: Power BI, Tableau (xây dựng biểu đồ, trực quan hóa insight).
 
 ---
 
